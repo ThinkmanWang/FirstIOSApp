@@ -43,6 +43,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
+                        <outlet property="m_btnMain" destination="usw-iY-rnE" id="IlR-pw-XM6"/>
                         <outlet property="m_ctlSwitch" destination="eX2-7y-pog" id="xFp-4r-gbF"/>
                         <outlet property="myLabel" destination="zIb-JQ-zyO" id="sMR-jg-myq"/>
                     </connections>

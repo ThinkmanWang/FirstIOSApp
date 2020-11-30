@@ -27,7 +27,7 @@
 
     [self.m_ctlSwitch sendActionsForControlEvents: UIControlEventValueChanged];
 //    [self.m_ctlSwitch sendAction: UIControlEventValueChanged];
-
+    
 }
 
 - (IBAction)onSwichChanged:(id)sender {

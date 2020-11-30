@@ -9,6 +9,7 @@
 
 @interface ViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UIButton *m_btnMain;
 @property (weak, nonatomic) IBOutlet UISwitch *m_ctlSwitch;
 @property (weak, nonatomic) IBOutlet UILabel *myLabel;
 
